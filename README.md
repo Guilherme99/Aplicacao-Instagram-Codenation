@@ -16,7 +16,7 @@ Como já aprendemos em aula, a organização das pastas e arquivos deverá utili
 
 
 # Instalando as dependências
-> npm install ou yarm install
+> npm install ou yarn install
 
 # Executando a aplicação
 > npm start ou yarn start
